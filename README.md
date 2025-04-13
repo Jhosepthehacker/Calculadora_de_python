@@ -9,8 +9,8 @@ git clone https://github.com/Jhosepthehacker/Calculadora_de_python
    python3 Calculadora.py
 ```
 
->[!IMPORTANT]
->Necesito colaboradores urgentes de github por favor
+> [!IMPORTANT]
+> Necesito colaboradores urgentes de github por favor
 
 > [!CORREO]
 > josemanuelramirezrengifo9@gmail.com
