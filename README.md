@@ -12,7 +12,7 @@ git clone https://github.com/Jhosepthehacker/Calculadora_de_python
 > [!IMPORTANT]
 > Necesito colaboradores urgentes de github por favor
 
-> [!CORREO]
+> [!NOTE]
 > josemanuelramirezrengifo9@gmail.com
 
 > [!WARNING]
