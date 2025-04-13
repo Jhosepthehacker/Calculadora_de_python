@@ -10,3 +10,9 @@ if __name__ == '__main__':
   # Calculando y mostrando el resultado
 
     print (f"{a} + {b} = " + str(c))
+
+    print ("Espero que hayas disfrutado de la calculadora")
+  
+    print ("")
+
+    print ("En desarrollo....")
