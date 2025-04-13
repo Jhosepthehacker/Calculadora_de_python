@@ -9,7 +9,7 @@ git clone https://github.com/Jhosepthehacker/Calculadora_de_python
    python3 Calculadora.py
 ```
 
-> [IMPORT]
+> [IMPORTANT]
 > Necesito colaboradores urgentes de github por favor
 
 > [CORREO]
